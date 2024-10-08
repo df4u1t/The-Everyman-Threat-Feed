@@ -29,3 +29,6 @@ ratingsentry.com
 ripnoticebook.com
 scorelineupdate.com
 suezey.com
+dns1.s-logistics.net
+dns2.s-logistics.net
+api.wilbderreis.ru
